@@ -1,4 +1,4 @@
 ## Coffee web
 ___
-I am a intermediate back-end dev in django. This project is my first project built from scratch about a coffee bussiness.
+This is the first webpage that makes uses of all web dev technologies I've learnt and keep learning: HTML, CSS, Javascript and Django. AltThough there is ton for improvement, this does its job for setting up the initial stage to my career as a fullstack programmer.
 
